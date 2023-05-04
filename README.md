@@ -17,18 +17,17 @@ Each training and test example is assigned to one of the following labels:
 ## Data Preparations
 In this project, you will use the Fashion-MNIST dataset using a CNN neural network architecture.
 
-First, download the data file, load it, and
-Describe the data
-Clean the data
-Check the data for missing values or duplicates and carry out proper correction methods
-Visualize the data using proper visualization methods.
-Draw some of the images
-Carry out required correlation analysis
-Carry out any required preprocessing operations on the data
-Encode the labels
+-First, download the data file, load it, and
+-Describe the data
+-Clean the data
+-Check the data for missing values or duplicates and carry out proper correction methods
+-Visualize the data using proper visualization methods.
+-Draw some of the images
+-Carry out required correlation analysis
+-Carry out any required preprocessing operations on the data
+-Encode the labels
 ## Training a CNN neural network
-We will implement a LeNet-5 network to recognize the Fashion MNIST digits.
-
-Modify hyperparameters to get to the best performance you can achieve.
-Evaluate the model using 5-fold cross-validation.
-Try to use other two CNN models (using transfer learning) and compare the results with the full trained LeNet-5
+-We will implement a LeNet-5 network to recognize the Fashion MNIST digits.
+-Modify hyperparameters to get to the best performance you can achieve.
+-Evaluate the model using 5-fold cross-validation.
+-Try to use other two CNN models (using transfer learning) and compare the results with the full trained LeNet-5
